@@ -4,6 +4,7 @@
     <test verbose="2" preserve-order="true" name="/home/rivigo/jenkinsproject">
         <classes>
             <class name="package1.TestClass"></class>
+            <class name="package1.TestClass2"></class>
         </classes>
 
     </test>
